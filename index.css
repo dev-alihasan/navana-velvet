@@ -26,6 +26,7 @@ body {
 }
 a {
   text-decoration: none;
+  color: black;
 }
 
 .landing-child {
@@ -58,7 +59,7 @@ a {
 }
 .home-parent {
   position: absolute;
-  top: 5.31rem;
+  top: 3rem;
   left: 5rem;
   text-transform: uppercase;
 }
@@ -252,7 +253,7 @@ a {
 }
 .search-parent {
   position: absolute;
-  top: 4.69rem;
+  top: 3rem;
   left: 68rem;
 }
 .landing {
